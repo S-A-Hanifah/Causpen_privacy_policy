@@ -1,7 +1,3 @@
-Great! Here’s your customized **Privacy Policy** for **Causpen** with your details included:
-
----
-
 # Privacy Policy
 
 **Last updated:** May 3, 2025
@@ -62,10 +58,3 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 If you have questions or concerns about this Privacy Policy, please contact us at:  
 **syed.abu.hanifah16@gmail.com**
 
----
-
-You can now:
-1. Save this as `privacy-policy.md` in your GitHub repo or anywhere online.
-2. Use the link to that file as your **Privacy Policy URL** in the Play Store.
-
-Need help uploading it to GitHub or generating a link?
